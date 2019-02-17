@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="533bfbe1-6b9d-4815-a09e-0256caa18ac1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6d64c2ea-07a8-42cb-946a-9fef4190c320.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6d64c2ea-07a8-42cb-946a-9fef4190c320.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsps/all-tubes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsps/all-tubes.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="533bfbe1-6b9d-4815-a09e-0256caa18ac1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -541,12 +538,12 @@
       <updated>1549047649686</updated>
       <workItem from="1549047656186" duration="926000" />
       <workItem from="1549456953021" duration="5925000" />
-      <workItem from="1549466362994" duration="2575000" />
+      <workItem from="1549466362994" duration="2624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9426000" />
+    <option name="totallyTimeSpent" value="9475000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
